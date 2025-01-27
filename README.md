@@ -11,6 +11,10 @@
 
 <h2 align="center">Languages and Tools:</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="33" alt="vuejs logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="33" alt="laravel logo"  />
+  <img width="10" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="33" alt="typescript logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="33" alt="python logo"  />
