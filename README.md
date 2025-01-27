@@ -3,7 +3,7 @@
 
 
  
-- 👨‍💻 All of my projects are available at [loch-portfolio.vercel.app/projects](https://loch-portfolio.vercel.app/projects)
+- 👨‍💻 All of my projects are available at [[loch-portfolio.vercel.app/projects](https://github.com/MOW-DN)]
 
 - 📫 Reach me at [**manwoddan@gmail.com**](mailto:loc.yan0825@gmail.com)
 
