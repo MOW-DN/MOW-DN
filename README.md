@@ -39,7 +39,8 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="33" alt="jira logo"  />
   <img width="10" /> 
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" height="33" alt="azure cloud logo" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="33" alt="Azure Cloud logo" />
   <img width="10" />
+
 
 </div>
