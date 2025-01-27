@@ -41,6 +41,8 @@
   <img width="10" /> 
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" height="33" alt="Azure Cloud logo" />
   <img width="10" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="33" alt="Azure Cloud logo" />
+  <img width="10" />
 
 
 </div>
