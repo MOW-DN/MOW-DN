@@ -5,7 +5,7 @@
  
 - 👨‍💻 All of my projects are available at [[https://github.com/MOW-DN](https://github.com/MOW-DN)]
 
-- 📫 Reach me at [**[manwoddan@gmail.com]**](mailto:manwoddan@gmail.com)
+- 📫 Reach me at [[manwoddan@gmail.com](mailto:manwoddan@gmail.com)]
 
 
 
