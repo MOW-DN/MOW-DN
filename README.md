@@ -69,8 +69,8 @@ Instead of a messy wall, top devs categorize their stack. Here is your full powe
 ### 📊 GitHub Insights (The "Cool" Data Section)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed woddan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed woddan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MOW-DN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOW-DN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
