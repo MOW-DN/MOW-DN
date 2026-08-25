@@ -9,7 +9,7 @@
   
   <p align="center">
     <b>👨‍💻</b> All projects: <a href="https://github.com/xxx"><b>github.com/xxx</b></a> &nbsp;|&nbsp; 
-    <b>📫</b> Reach me: manwoddan@gmail.com<a href="mailto:manwoddan@gmail.com"><b>Email</b></a>
+    <b>📫</b> Reach me: <a href="mailto:manwoddan@gmail.com"><b>Email</b></a>
   </p>
 
   <!-- SEPARATOR -->
@@ -69,8 +69,8 @@ Instead of a messy wall, top devs categorize their stack. Here is your full powe
 ### 📊 GitHub Insights (The "Cool" Data Section)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xxx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxx&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed woddan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed woddan&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 </div>
 
 ---
