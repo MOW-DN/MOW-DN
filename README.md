@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,cpp,rust,go,dart" /><br>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,spring,laravel,dotnet,rails,tauri,flutter,expo,unrealengine,blender" /><br>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,spring,laravel,dotnet,rails,tauri,flutter,unrealengine,blender" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,aws,azure,docker,linux,kubernetes,nginx,vercel,heroku,git,postman,vscode,visualstudio,idea" />
 </p>
 
