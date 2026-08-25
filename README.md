@@ -1,67 +1,66 @@
+<h1 align="center">Hi there, I'm Mohamed Woddan 👋</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+MOHAMED+WODDAN;Software+Developer;System+Architect;Polyglot+Programmer;From+Arch+Linux+to+Azure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Developer;System+Architect;Polyglot+Programmer;From+Arch+Linux+to+Azure;DevOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>👨‍💻</b> <a href="https://github.com/MOW-DN">github.com/MOW-DN</a> &nbsp;•&nbsp; 
-  <b>📫</b> <a href="mailto:manwoddan@gmail.com">manwoddan@gmail.com</a>
+  <a href="https://github.com/MOW-DN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:manwoddan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 The Modern Tech Arsenal
+## ⚡ Tech Stack & Toolbox
 
-### 💻 Languages
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+I believe in mastering the infrastructure as much as the code. Here's my full arsenal:
 
-### ⚡ Frameworks & Backend
-![Static Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
+### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,ruby,java,cs,php)](https://skillicons.dev)
 
-### 🎨 UI/UX & Styling
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Static Badge](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Radix_UI-161618?logo=radixui&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Base_Web-000000?logo=baseweb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white)
+### ⚙️ Frameworks & Backend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,rails,spring,laravel,dotnet)](https://skillicons.dev)
+
+### 🎨 Frontend & Styling
+[![My Skills](https://skillicons.dev/icons?i=tailwind,css,styledcomponents)](https://skillicons.dev)
 
 ### ☁️ Cloud, DevOps & Infrastructure
-![Static Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/WSL-4EAA25?logo=ubuntu&logoColor=white)
-![Static Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,linux,kubernetes,nginx)](https://skillicons.dev)
 
-### 🛠️ The Dev Toolbox
-![Static Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Static Badge](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
-![Static Badge](https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+### 🛠️ Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,git,github)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics Dashboard
 
-> **Note:** The primary GitHub stats service is currently paused. I am using a stable community fork to keep the dashboard live.
+<p align="center">
+  <img width="49%" src="https://stats.hyo.dev/api/github-stats-advanced?login=MOW-DN" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=MOW-DN&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img width="45%" src="https://stats.dooboo.io/api?username=MOW-DN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
-  <img width="45%" src="https://stats.dooboo.io/api/top-langs/?username=MOW-DN&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MOW-DN&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MOW-DN&theme=github_dark" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MOW-DN&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MOW-DN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+*(Replace these links with your actual repositories)*
+
+- **[Unsplash Studio](https://github.com/MOW-DN/unsplash-studio)** – A modern Tauri desktop app for exploring, downloading, and setting wallpapers from Unsplash.
+- **[Custom Arch Linux Build](https://github.com/MOW-DN/arch-build)** – From-scratch Arch Linux configuration with custom kernel compilation and VMware optimizations.
+- **Enterprise Microservices** – Full-stack solutions leveraging Spring Boot, Laravel, and ASP.NET deployed across AWS/Azure.
 
 ---
 
@@ -70,6 +69,6 @@
 > *"From compiling a custom **Arch Linux kernel** on **VMware**, to deploying enterprise **ASP.NET** apps on **IIS**—and orchestrating microservices with **Spring Boot** and **Laravel** on **AWS/Azure**...* 
 > *I don't just use the stack, I understand the underlying infrastructure."*
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=MOW-DN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
+
+*Last updated: August 2026*
