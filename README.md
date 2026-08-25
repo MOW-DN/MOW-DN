@@ -2,13 +2,13 @@
   
   <!-- DYNAMIC TYPING HEADER (Most famous devs use this instead of static h1) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+xxx+xxx;Software+Developer;System+Architect;Polyglot+Programmer;From+Arch+Linux+to+Azure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+mohamed+woddan;Software+Developer;System+Architect;Polyglot+Programmer;From+Arch+Linux+to+Azure" alt="Typing SVG" />
   </a>
 
   <h3 align="center">Developing • Analyzing • Innovating</h3>
   
   <p align="center">
-    <b>👨‍💻</b> All projects: <a href="https://github.com/xxx"><b>github.com/xxx</b></a> &nbsp;|&nbsp; 
+    <b>👨‍💻</b> All projects: <a href="https://github.com/MOW-DN"><b>github.com/xxx</b></a> &nbsp;|&nbsp; 
     <b>📫</b> Reach me: <a href="mailto:manwoddan@gmail.com"><b>Email</b></a>
   </p>
 
