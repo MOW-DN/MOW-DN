@@ -81,5 +81,5 @@ Instead of a messy wall, top devs categorize their stack. Here is your full powe
 > *I don’t just use the stack, I understand the underlying infrastructure."*
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MOW-DN&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
