@@ -1,5 +1,3 @@
-<h1 align="center">Mohamed Woddan</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Systems+Architect;Polyglot+Programmer;From+Arch+Linux+to+Azure" alt="Typing SVG" />
 </p>
